@@ -18,4 +18,19 @@ Actualizar un tópico;
 
 Eliminar un tópico.
 
-Es lo que normalmente conocemos como CRUD* (CREATE, READ, UPDATE, DELETE) y es muy similar a lo que desarrollamos en LiterAlura, pero ahora de forma completa, agregando las operaciones de UPDATE y DELETE, y usando un framework que facilitará mucho nuestro trabajo.
+Configuración al crear el proyecto con Spring Initializr:
+
+Java (versión 17 en adelante)
+Maven (Initializr utiliza la versión 4)
+Spring Boot
+Proyecto en formato JAR
+Dependencias para agregar al crear el proyecto con Spring Initializr:
+
+Lombok
+Spring Web
+Spring Boot DevTools
+Spring Data JPA
+MariaDB
+SpringDoc
+Validation
+Spring Security
